@@ -90,6 +90,13 @@ ionic serve.
 #Compile:
 ionic build android
 
+#Configure Platforms
+$ ionic platform add ios
+$ ionic platform add android
+
+#Just to make sure the default project worked, try building and running the project (substitute ios for android to build for Android instead):
+$ ionic build ios
+$ ionic emulate ios
 
 #Plugin ionic
 ionic plugin list
