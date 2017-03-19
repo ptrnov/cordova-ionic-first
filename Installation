@@ -103,6 +103,8 @@ ionic plugin list
 
 ionic plugin rm cordova-plugin-file
 
-ionic plugin add cordova-plugin-file -- save
+ionic pluginr add cordova-plugin-file -- save
 
+#Rebuild-path - Cached binary - import project
+npm rebuild node-sass
 ```
